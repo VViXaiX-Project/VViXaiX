@@ -27,9 +27,17 @@ VViXaiXは、さまざまな形式のメディアファイルを一つのアプ�
 
 ## ダウンロード
 
-現在、公開準備中です。
+**VViXaiX 0.6.26（Windows 64bit版）**
 
-正式公開時には、このリポジトリの「Releases」からダウンロードできるようになります。
+[VViXaiX 0.6.26 をダウンロード](https://github.com/VViXaiX-Project/VViXaiX/releases/download/v0.6.26/VViXaiX_0.6.26.zip)
+
+Windows 11（64bit）推奨。Windows 10（64bit）は基本動作確認済みです。
+
+ZIPファイルをダウンロードして任意のフォルダに展開し、`VViXaiX.exe` を起動してください。
+
+※初回起動時にWindows Defender SmartScreenの警告が表示される場合があります。ダウンロード元とファイルの安全性を確認してから実行してください。
+
+詳細な使用方法は、ZIPに同梱されているREADME.txtおよびHTML操作マニュアルをご確認ください。
 
 ## ライセンス
 
